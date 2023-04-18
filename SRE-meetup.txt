@@ -1,0 +1,17 @@
+MLOps is "a thing" SREs shall not miss to get their hands on.
+A SRE meets a MLOps analyst on a journey to find out how they can help each other.
+Join us on this exploratory talk about the importance of MLOps in modern organisations and how engineers 
+
+Questions:
+1. Should SREs get on the MLOps hype?
+2. Can SREs benefit from doing MLOps?
+3. Can MLOps benefit from SREs involvement?
+
+
+Monitoring
+Monitoring classical applications is relativaly simple. We've been doing it for decades. monitoring in MLOps is a bit harder. 
+We usually look for an answer to a following questions:
+- is an application up 
+- is an application performing well
+When we monitor models, the question becomes not "is the model correct" but more like "is the model better or worse" - which is an entirely different task 
+to answer
